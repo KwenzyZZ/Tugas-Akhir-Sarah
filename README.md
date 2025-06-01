@@ -1,8 +1,4 @@
-Berikut README.md yang sudah aku sesuaikan dengan nama file dan repo yang kamu berikan:
 
----
-
-````markdown
 # Program Daftar Nilai Mahasiswa
 
 Program sederhana berbasis C++ untuk memasukkan data nilai mahasiswa dan menentukan status kelulusan berdasarkan nilai yang diinput.
