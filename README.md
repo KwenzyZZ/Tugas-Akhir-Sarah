@@ -37,8 +37,8 @@ g++ tugas-akhir.cpp -o daftar_nilai
 ### 3. Jalankan program
 
 ```bash
-./daftar_nilai     # Linux/macOS
-daftar_nilai.exe   # Windows
+./tugas-akhir     # Linux/macOS
+tugas-akhir.exe   # Windows
 ```
 
 ### 4. Masukkan data sesuai perintah di layar
